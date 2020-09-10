@@ -5,7 +5,7 @@ import asyncio
 import time
 from voice_helpers import play
 
-TOKEN = 'NzUyNTM3MDkwMTE3NTk5MjYz.X1ZExw.WnjnnDvxG3PoMX4Ta05Yq7RXqrw'
+TOKEN = ''
 
 client = discord.Client()
 
