@@ -1,0 +1,6 @@
+Innkeeper-Epic.mp3
+Innkeeper-GoldenEpic.mp3
+Innkeeper-Rare.mp3
+Innkeeper-GoldenRare.mp3
+Innkeeper-Legendary.mp3
+Innkeeper-GoldenLegendary.mp3
